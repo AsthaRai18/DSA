@@ -13,7 +13,7 @@ int main()
                 coef = 1;
             else
                 coef = coef*(i-j+1)/j;
-
+                
             cout << coef << "   ";
         }
         cout << endl;
